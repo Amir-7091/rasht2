@@ -41,6 +41,7 @@ h1, h2, h3, h4, p {
     list-style-type: none;
     padding-left: 0; /* Optional: to remove the indentation */
     margin-left: 0;  /* Optional: to align with the page */
+}
 
 
 .rasht-img {
